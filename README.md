@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Demon Slayer]([https://media.giphy.com/media/l0MYC0LajMaPo2RJ2/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdubWk2Zmg4ZWdjendmZ3V4a2hodzNtbHZ3anB1d3gwcWZocXBzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jh7F7XwHTywg85ekdl/giphy.gif))
+![Demon Slayer](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdubWk2Zmg4ZWdjendmZ3V4a2hodzNtbHZ3anB1d3gwcWZocXBzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jh7F7XwHTywg85ekdl/giphy.gif)
 
 **Análise Inteligente de Acidentes por Trecho Rodoviário**
 
