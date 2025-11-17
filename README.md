@@ -35,7 +35,7 @@ Este sistema foi desenvolvido para **consolidar e analisar dados de acidentes vi
 
 <div align="center">
 
-![Tanjiro](https://media.giphy.com/media/3o7aD2saQqX1gL5Qy8/giphy.gif)
+![Tanjiro](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHR3dGtmOG00cnA1OWpzazhkZXcwbnAyZ2N2YWhzODAwNnNvbjA1YyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/WkeXjFoubG449UdbGh/giphy.gif)
 
 *"Respiração da Água: Primeira Forma - Análise de Dados!"* 💧
 
@@ -595,5 +595,6 @@ Este projeto é de uso interno para análise de dados de segurança viária.
 *"Respiração Total: Concentração Constante!"* 🌊
 
 </div>
+
 
 
